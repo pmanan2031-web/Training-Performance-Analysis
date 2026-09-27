@@ -345,39 +345,6 @@ This project uses multiple tools, so the visual outputs are separated by analysi
 | 📗 Excel | [Open Excel workbook](./Book1.xlsx) |
 | 📊 Power BI | [Open Power BI report](./powerbi.pbix) |
 
-### 📊 Python Graphs
-
-<p align="center">
-  <a href="./outputs">
-    <b>📈 Open all Python analysis graphs & outputs →</b>
-  </a>
-</p>
-
-### 🗄️ SQL Results
-
-<p align="center">
-  <a href="./sqloutput">
-    <b>🔎 Open SQL analysis outputs →</b>
-  </a>
-</p>
-
-### 📗 Excel Report
-
-<p align="center">
-  <a href="./Book1.xlsx">
-    <b>📊 Open Excel workbook →</b>
-  </a>
-</p>
-
-### 📊 Power BI Dashboard
-
-<p align="center">
-  <a href="./powerbi.pbix">
-    <b>🚀 Open Power BI report →</b>
-  </a>
-</p>
-
----
 
 # 🔍 6. Analysis Approach
 
